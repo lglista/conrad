@@ -10,7 +10,7 @@ max_lengths = {
     "Country": 7,
     "Start Date": 10,
     "End Date": 8,
-    "padding": 25,
+    "padding": 26,
 }
 
 def get_optimal_name_length(events):
